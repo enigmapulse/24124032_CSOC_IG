@@ -15,4 +15,4 @@
     Multivariable linear regression using scikit-learn library
 
 - **report.pdf**  
-    An analysis of the methods sued and exploring the reason behind the seen differences in the implementation
+    An analysis of the methods used and exploring the reason behind the seen differences in the implementation
