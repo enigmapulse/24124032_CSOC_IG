@@ -16,3 +16,17 @@
 
 - **report.pdf**  
     An analysis of the methods used and exploring the reason behind the seen differences in the implementation
+
+## Neural Network Task
+
+- **EDA.ipynb**  
+    Exploratory data analysis of the medical no show Dataset.
+
+- **ANN.py**  
+    NN with numpy
+
+- **pytorch.ipynb**  
+    NN with pytorch
+    
+- **report.pdf**  
+    An analysis of the methods used and exploring the reason behind the seen differences in the implementation

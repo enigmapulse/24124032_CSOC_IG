@@ -1,0 +1,31 @@
+Accuracy:  0.7977
+Precision: 0.4917
+Recall:    0.0529
+F1-score:  0.0955
+PR-AUC:    0.3623
+Confusion Matrix:
+[[17398   244]
+ [ 4228   236]]
+
+above for 21 -> 32 -> 1, relu sigmoid
+
+Accuracy:  0.7985
+Precision: 0.5372
+Recall:    0.0146
+F1-score:  0.0284
+PR-AUC:    0.3612
+Confusion Matrix:
+[[17586    56]
+ [ 4399    65]]
+ 
+ above for 21 -> 16 -> 1, relu sigmoid
+ 
+Accuracy:  0.7989
+Precision: 0.5517
+Recall:    0.0215
+F1-score:  0.0414
+PR-AUC:    0.3646
+Confusion Matrix:
+[[17564    78]
+ [ 4368    96]]
+ above for 21->32->16->1, relu relu sigmoid
