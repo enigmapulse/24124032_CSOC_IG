@@ -30,3 +30,17 @@
     
 - **report.pdf**  
     An analysis of the methods used and exploring the reason behind the seen differences in the implementation
+
+## MDPs and Dynamic Programming
+
+- **bellman_eqns.pdf**  
+    Explored Bellman Optimality equations and solved 3.25-3.29 from Sutton and Barto
+
+- **convergence_dp.pdf**  
+    Explored convergence of VI and PI
+
+- **frozen_lake.ipynb**  
+    Applied DP algos on FrozenLake and custom environments
+
+- **report.pdf**  
+    final report of our DP implementation
