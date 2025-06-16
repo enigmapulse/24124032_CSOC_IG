@@ -44,3 +44,11 @@
 
 - **report.pdf**  
     final report of our DP implementation
+
+## Monte Carlo and TD learning
+
+- **monte_td.ipynb**  
+    Implemented, MC, Q learning and SARSA
+
+- **convergence_dp.ipynb**  
+    Tested those algorithms on a complete scratch made cliff walking environment
