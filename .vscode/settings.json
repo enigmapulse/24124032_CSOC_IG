@@ -1,0 +1,8 @@
+{
+    "jupyter.notebookIntellisense.logging": true,
+    "python.analysis.indexing": true,
+    "python.analysis.inlayHints.variableTypes": false,
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "standard",
+    "jupyter.enableNativeNotebookEditor": false
+}

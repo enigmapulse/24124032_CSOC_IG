@@ -9,6 +9,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "gymnasium" },
     { name = "imblearn" },
+    { name = "jdc" },
     { name = "matplotlib" },
     { name = "memory-profiler" },
     { name = "numpy" },
@@ -24,6 +25,7 @@ dependencies = [
 requires-dist = [
     { name = "gymnasium", specifier = ">=1.1.1" },
     { name = "imblearn", specifier = ">=0.0" },
+    { name = "jdc", specifier = ">=0.0.9" },
     { name = "matplotlib", specifier = ">=3.10.3" },
     { name = "memory-profiler", specifier = ">=0.61.0" },
     { name = "numpy", specifier = ">=2.2.5" },
@@ -179,6 +181,15 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/32/0a/f83099534a77757abf27427d339590c83cc68c3386690d4741d6454e185f/imblearn-0.0.tar.gz", hash = "sha256:d8fbb662919c1b16f438ad91a8256220e53bcf6815c9ad5502c518b798de34f2", size = 945, upload-time = "2017-01-19T11:52:35.89Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/81/a7/4179e6ebfd654bd0eac0b9c06125b8b4c96a9d0a8ff9e9507eb2a26d2d7e/imblearn-0.0-py2.py3-none-any.whl", hash = "sha256:d42c2d709d22c00d2b9a91e638d57240a8b79b4014122d92181fcd2549a2f79a", size = 1874, upload-time = "2017-01-19T11:52:37.416Z" },
+]
+
+[[package]]
+name = "jdc"
+version = "0.0.9"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/20/23/304f0ebe3e849a683e696863e2fab84a9ae6410f8c70e1143a0c54b77679/jdc-0.0.9.tar.gz", hash = "sha256:ffe1b57e80667bdde81491254f0c43da2f3bf3a285f34fdbeae0ffcf5acaa9ef", size = 2903, upload-time = "2019-08-15T03:29:02.912Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/5a/cb/9afea749985eef20f3160e8826a531c7502e40c35a038dfe49b67726e9a0/jdc-0.0.9-py2.py3-none-any.whl", hash = "sha256:87d794e299ae420a3f4874984636556af5464652e71ecd9d5c0e1ccfafe2538f", size = 2070, upload-time = "2019-08-15T03:29:00.52Z" },
 ]
 
 [[package]]
