@@ -52,3 +52,6 @@
 
 - **convergence_dp.ipynb**  
     Tested those algorithms on a complete scratch made cliff walking environment
+
+- **blackjack.ipynb**  
+    Implemented, MC, Q learning and SARSA on the famous casino game - BlackJack
